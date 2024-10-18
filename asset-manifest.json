@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/group-introduction/static/css/main.e6c13ad2.css",
+    "main.js": "/group-introduction/static/js/main.10dd64b8.js",
+    "static/js/453.45aba5c8.chunk.js": "/group-introduction/static/js/453.45aba5c8.chunk.js",
+    "static/media/TramAnh.jpg": "/group-introduction/static/media/TramAnh.80748c89d24abe4a5a28.jpg",
+    "index.html": "/group-introduction/index.html",
+    "main.e6c13ad2.css.map": "/group-introduction/static/css/main.e6c13ad2.css.map",
+    "main.10dd64b8.js.map": "/group-introduction/static/js/main.10dd64b8.js.map",
+    "453.45aba5c8.chunk.js.map": "/group-introduction/static/js/453.45aba5c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.10dd64b8.js"
+  ]
+}
