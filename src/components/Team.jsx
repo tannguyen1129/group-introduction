@@ -10,13 +10,13 @@ const Team = () => {
     const members = [
         {
             name: 'SON TAN',
-            position: 'Lập trình viên',
+            position: 'DevOps',
             image: SonTan,
             profileLink: 'https://tannguyen1129.github.io/personal-introduction/',
         },
         {
             name: 'VO NGOC TRAM ANH',
-            position: 'Thiết kế đồ họa',
+            position: 'Data Scientist',
             image: TramAnh,
             profileLink: 'https://vntanh1406.github.io/simple-introduction/',
         },
